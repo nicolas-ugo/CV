@@ -1,0 +1,112 @@
+<!DOCTYPE 
+html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Nicolas UGO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 40px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact a {
+            color: #3498db;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Nicolas UGO</h1>
+            <h2>Formateur expérimenté & Polyvalent Opérationnel</h2>
+            <p class="contact">📧 Email : <a href="mailto:n.ugo@hotmail.fr">n.ugo@hotmail.fr</a> | 📍 7 rue du Président Kennedy, 37100 Tours | 📞 06 63 93 20 99</p>
+        </header>
+        
+        <section class="section">
+            <h2>À propos</h2>
+            <p>Formateur expérimenté avec une forte expertise en gestion de l’environnement, hygiène et propreté, hôtellerie et restauration. Polyvalent, adaptable et autonome, je mets mes compétences au service d’activités nécessitant organisation et rigueur.</p>
+        </section>
+        
+        <section class="section">
+            <h2>Compétences</h2>
+            <ul>
+                <li>Ingénierie pédagogique, construction de scénarios, conception de supports</li>
+                <li>Évaluation et suivi de formation, bilans de formations</li>
+                <li>Gestion de projet & formation</li>
+                <li>Déploiement et accompagnement</li>
+                <li>Gestion du personnel, logistique et optimisation</li>
+                <li>Hygiène, propreté et environnement</li>
+                <li>Préparation et service en hôtellerie-restauration</li>
+                <li>Gestion des stocks et approvisionnements</li>
+                <li>Maintenance et entretien des équipements</li>
+                <li>Tests d’étanchéité, diagnostics de réseaux</li>
+                <li>Connaissance des SPANC et suivi des équipements de sécurité</li>
+                <li>Encadrement et formation d’équipes</li>
+                <li>Relation client et gestion de la satisfaction</li>
+                <li>Optimisation des coûts et gestion budgétaire</li>
+            </ul>
+        </section>
+        
+        <section class="section">
+            <h2>Expériences</h2>
+            <ul>
+                <li><strong>Formateur Technique</strong> - INHNI (2009 - 2022)<br>Formation des professionnels, ingénierie pédagogique, suivi et évaluation des compétences.</li>
+                <li><strong>Chargé d’Étude</strong> - SMIRGEOMES (2009)<br>Diagnostic et optimisation des collectes, étude de faisabilité, préconisations environnementales.</li>
+                <li><strong>Chef d’Équipe en gestion de déchets</strong> - COVED (2007 - 2008)<br>Gestion du personnel, optimisation logistique, mise en conformité des sites, formation des employés.</li>
+                <li><strong>Apprenti Technicien Supérieur en Assainissement</strong> - SARC (2005 - 2007)<br>Hydrocurage, débouchage, pompage, tests d’étanchéité, diagnostic des réseaux.</li>
+                <li><strong>Opérateur de mise sous pli</strong> - ITD (2002 - 2005)<br>Réglage des machines, contrôle qualité, maintenance préventive.</li>
+                <li><strong>Serveur</strong> - Résidence Eiffel, Beaulieu (2002)<br>Accueil client, prise de commande, gestion de la caisse.</li>
+                <li><strong>Préparateur - Vendeur en snack</strong> - Grasse Country Club (2002)<br>Préparation des plats, service rapide, gestion des stocks.</li>
+                <li><strong>Barman</strong> - Gallia, Cannes (1998)<br>Préparation de cocktails, gestion des stocks, service au comptoir.</li>
+                <li><strong>Cuisinier</strong> - Flunch, Antibes (2000)<br>Mise en place, préparation des plats, respect des normes HACCP.</li>
+                <li><strong>Plagiste</strong> - Corail Plage, Golfe Juan (1999-2005, saisons d’été)<br>Installation des transats, service aux clients, entretien des plages privées.</li>
+                <li><strong>Manutentionnaire</strong> - Interima, Antibes (2000)<br>Chargement/déchargement de marchandises, stockage et rangement.</li>
+                <li><strong>Extra</strong> - Fouquet’s et Café 50, Cannes (2002)<br>Service en restauration, accueil et conseil aux clients.</li>
+            </ul>
+        </section>
+        
+        <section class="section">
+            <h2>Formation</h2>
+            <ul>
+                <li>Licence Professionnelle Protection de l’Environnement - IUT de Tours (2009)</li>
+                <li>BTS Hygiène Propreté Environnement - INHNI Tours (2008)</li>
+                <li>Habilitation électrique BO V - Tours (2008)</li>
+                <li>Sauveteur Secouriste du Travail (SST) - Tours (2006)</li>
+                <li>AFPS Croix-Rouge - Antibes (1999)</li>
+                <li>Niveau Baccalauréat - Lycée Frédéric Mistral, Cagnes-sur-Mer (1998-1999)</li>
+            </ul>
+        </section>
+        
+        <section class="section">
+            <h2>Loisirs</h2>
+            <ul>
+                <li>Jeux d’échecs</li>
+                <li>Snowboard</li>
+                <li>VTT</li>
+                <li>Voyages</li>
+                <li>Musique</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
